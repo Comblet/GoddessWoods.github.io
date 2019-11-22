@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-30T15:42:37.588Z</updated>
+  <updated>2019-11-22T15:37:52.837Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git-latexdiff</title>
+    <link href="http://yoursite.com/2019/11/22/git-latexdiff/"/>
+    <id>http://yoursite.com/2019/11/22/git-latexdiff/</id>
+    <published>2019-11-22T15:15:18.000Z</published>
+    <updated>2019-11-22T15:37:52.837Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Windows下git-latexdiff的安装方法&quot;&gt;&lt;a href=&quot;#Windows下git-latexdiff的安装方法&quot; class=&quot;headerlink&quot; title=&quot;Windows下git
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>beginning</title>
